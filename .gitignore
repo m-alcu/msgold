@@ -1,0 +1,12 @@
+# build output
+build/
+build-asan/
+
+# Claude Code local settings
+.claude/
+
+# runtime files
+msgold*.csv
+msgold*.csv.tmp
+config.ini
+imgui.ini
